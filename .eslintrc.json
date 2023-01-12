@@ -1,0 +1,7 @@
+{
+  "root": true,
+  "extends": ["trybe-fundamentals"],
+  "rules": {
+    "no-param-reassign": 0
+  }
+}
