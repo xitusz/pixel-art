@@ -11,6 +11,7 @@
 - [Clonando Repositório](#clonando-repositório)
 - [Instalando Dependências](#instalando-dependências)
 - [Executando Aplicação](#executando-aplicação)
+- [Executando Testes](#executando-testes)
 
 ---
 
@@ -61,5 +62,11 @@
 ## Executando Aplicação
 
 * Utilize a extensão [liveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no index.html
+
+---
+
+## Executando Testes
+
+* Testes removidos pelo fato de terem sido criados pela [Trybe](https://www.betrybe.com/)
 
 ---
